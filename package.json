@@ -2,7 +2,7 @@
   "name": "stackbow",
   "version": "1.3.0",
   "private": true,
-  "homepage": "https://edwardEvans094.github.io/stackbow",
+  "homepage": "https://edwardEvans094.github.io/stackbow/",
   "dependencies": {
     "bignumber.js": "^9.0.0",
     "bootstrap": "3.3.7",
