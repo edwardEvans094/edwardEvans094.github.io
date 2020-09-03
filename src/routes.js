@@ -14,14 +14,14 @@ const dashboardRoutes = [
     name: "Boost",
     icon: "pe-7s-graph",
     component: Dashboard,
-    layout: "/stackbow"
+    layout: ""
   },
   {
     path: "/yuno",
     name: "Yuno",
     icon: "pe-7s-user",
     component: UserProfile,
-    layout: "/stackbow"
+    layout: ""
   },
   // {
   //   path: "/table",

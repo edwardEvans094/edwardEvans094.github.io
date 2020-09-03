@@ -60,7 +60,7 @@ class Admin extends Component {
     return routes.map((prop, key) => {
       return (
         <Route
-          path={prop.layout + prop.path}
+          path={prop.path}
           render={props => (
             <prop.component
               {...props}
