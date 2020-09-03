@@ -165,7 +165,7 @@ class FixedPlugin extends Component {
             <li className="button-container">
               <div className="">
                 <a
-                  href="https://www.creative-tim.com/product/light-bootstrap-dashboard-react?ref=lbdr-fixed-plugin"
+                  href="https://www.creative-tim.com/product/stackbow?ref=lbdr-fixed-plugin"
                   target="_blank"
                   className="btn btn-success btn-block btn-fill"
                 >
@@ -186,7 +186,7 @@ class FixedPlugin extends Component {
             </li>
             <li className="button-container">
               <a
-                href="https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/documentation/getting-started?ref=lbdr-fixed-plugin"
+                href="https://demos.creative-tim.com/stackbow/#/documentation/getting-started?ref=lbdr-fixed-plugin"
                 target="_blank"
                 className="btn btn-fill btn-info"
               >

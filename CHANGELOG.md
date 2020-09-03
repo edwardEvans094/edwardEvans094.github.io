@@ -15,15 +15,15 @@
 - Renamed `src/components/Navbars/Header.jsx` to `src/components/Navbars/AdminNavbar.jsx`
 - Renamed `src/components/Navbars/HeaderLinks.jsx` to `src/components/Navbars/AdminNavbarLinks.jsx`
 - Changes caused by running [the prettier command](https://prettier.io/docs/en/install.html) for *.jsx*, *.js*, *.html* and *.css* files
-- Changed our buggy routing system, now it should work flawlessly, for more info, please refer to our [live docs here](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/documentation/routing-system)
+- Changed our buggy routing system, now it should work flawlessly, for more info, please refer to our [live docs here](https://demos.creative-tim.com/stackbow/#/documentation/routing-system)
 - Solved
-  - https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues/48
-  - https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues/47
-  - https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues/34
-  - https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues/30
-  - https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues/19
-  - https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues/17
-  - https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues/15
+  - https://github.com/creativetimofficial/stackbow/issues/48
+  - https://github.com/creativetimofficial/stackbow/issues/47
+  - https://github.com/creativetimofficial/stackbow/issues/34
+  - https://github.com/creativetimofficial/stackbow/issues/30
+  - https://github.com/creativetimofficial/stackbow/issues/19
+  - https://github.com/creativetimofficial/stackbow/issues/17
+  - https://github.com/creativetimofficial/stackbow/issues/15
 - Removed `.env` file and replaced it with `jsconfig.json`
 - Small bug fixes
 ### Removed dependencies/components

@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "light-bootstrap-dashboard-react.css",
+	"file": "stackbow.css",
 	"sources": [
-		"../sass/light-bootstrap-dashboard-react.scss",
+		"../sass/stackbow.scss",
 		"../sass/lbd/_variables.scss",
 		"../sass/lbd/_mixins.scss",
 		"../sass/lbd/mixins/_transparency.scss",
