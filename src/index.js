@@ -15,8 +15,8 @@ import AdminLayout from "layouts/Admin.jsx";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/" render={props => <AdminLayout {...props} />} />
-      <Redirect from="*" to="/boost" />
+      <Route path="/stackbow" render={props => <AdminLayout {...props} />} />
+      <Redirect from="*" to="/stackbow/boost" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")
